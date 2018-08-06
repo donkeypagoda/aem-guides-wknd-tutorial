@@ -2,6 +2,7 @@
 
 #too big, so I'm going to try and .git ignore a few things
 crx-quickstart/
+#maybe
 
 ### Eclipse ###
 *.pydevproject
