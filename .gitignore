@@ -1,7 +1,7 @@
 # Created by https://www.gitignore.io/api/eclipse,java,maven
 
 #too big, so I'm going to try and .git ignore a few things
-crx-quickstart
+crx-quickstart/*
 
 ### Eclipse ###
 *.pydevproject
